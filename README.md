@@ -1,4 +1,4 @@
-![image](https://github.com/Sanghwa-S/web422_lottery/issues/1#issue-1080627127)
+![image](https://user-images.githubusercontent.com/86758391/146135866-c2ee7be5-4141-47fc-b9da-8500395f96ee.JPG)
 
 ## Rules to Run the project
 
